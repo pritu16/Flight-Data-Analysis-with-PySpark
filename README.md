@@ -26,3 +26,6 @@ Determined the top destinations by flight traffic
 
 Technology Stack
 PySpark for large-scale data processing
+
+About the Author
+[Pritam Das] | [pritamrdx98@gmail.com]
